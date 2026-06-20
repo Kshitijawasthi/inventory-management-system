@@ -1,2 +1,47 @@
-# inventory-management-system
-Make an nventory-management-system repo where i am buiding from scratch to high level
+# Inventory Management System
+
+## Features
+
+- Product Management
+- Customer Management
+- Order Management
+- Inventory Tracking
+- Stock Validation
+- Automatic Stock Reduction
+
+## Tech Stack
+
+- Flask
+- PostgreSQL
+- React
+- Docker
+
+## Setup
+
+### Backend
+
+pip install -r requirements.txt
+
+### Frontend
+
+npm install
+
+### Docker
+
+docker compose up --build
+
+## Live URLs
+
+Frontend:
+<vercel-url>
+
+Backend:
+<render-url>
+
+## Docker Images
+
+Backend:
+<dockerhub-url>
+
+Frontend:
+<dockerhub-url>
